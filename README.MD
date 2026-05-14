@@ -24,4 +24,4 @@
 
 ## 🚀 How to Run
    ```bash
-   git clone https://github.com/pythondeverloper483/snake-water-gun.git
+   git clone https://github.com/pythondeverloper483/Snake-Water-Gun.git
